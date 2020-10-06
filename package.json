@@ -1,5 +1,5 @@
 {
-  "name": "openapi-validator-middleware",
+  "name": "@infoarmor-platform/openapi-validator-middleware",
   "version": "3.1.1",
   "description": "Fast input validation middleware using OpenAPI 2.0 (formerly Swagger) and 3.0 definitions file and ajv",
   "main": "src/middleware.js",
@@ -109,7 +109,7 @@
     }
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://npm.pkg.github.com/"
   },
   "engines": {
     "node": ">=8"
